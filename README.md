@@ -15,9 +15,6 @@ I'm currently working as a Full-Stack Developer.<br>I'm looking to Collaborate o
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=seifadel25&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=seifadel25&limit=5&theme=default&combine_all_yearly_contributions=true)
 
